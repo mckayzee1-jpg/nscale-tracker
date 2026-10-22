@@ -1,0 +1,17 @@
+{
+  "board_token": "nscaleoperationsukltd",
+  "ntfy_server": "https://ntfy.sh",
+
+  "title_include_any": [
+    "network engineer",
+    "network deployment",
+    "network architect",
+    "network automation",
+    "cluster networking",
+    "network operations"
+  ],
+  "title_exclude_any": [
+    "intern"
+  ],
+  "location_include_any": []
+}

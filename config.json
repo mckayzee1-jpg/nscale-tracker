@@ -5,10 +5,15 @@
     "network engineer",
     "network deployment",
     "network operations",
-    "Data Center"
+    "Data Center Network"
   ],
   "title_exclude_any": [
     "intern"
   ],
-  "location_include_any": []
+  "location_include_any": [
+    "Ireland",
+    "UK",
+    "Scotland",
+    "Wales"
+  ]
 }
